@@ -39,7 +39,7 @@ if __name__ == "__main__":
 ██████╔╝╚█████╔╝██║░░██║██║░░██║██║░░░░░███████╗██║░░██║░░░░░░╚██████╔╝╚██████╔╝
 ╚═════╝░░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚══════╝╚═╝░░╚═╝░░░░░░░╚═════╝░░╚═════╝░
 ''' + Fore.RESET)
-    scrapes = input(Fore.LIGHTBLUE_EX + 'How many servers to scrape? (enter 1 for 100): ' + Fore.RESET + '\n')
+    scrapes = input(Fore.LIGHTBLUE_EX + 'How many servers to scrape? (enter 1 for 100): ' + Fore.RESET)
     skip = 0
 
     for i in range(int(scrapes)):
