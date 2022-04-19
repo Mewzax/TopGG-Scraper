@@ -1,3 +1,6 @@
+# bruh it got patched cuz new links protection sorry guys
+> I'll try to fix
+
 <h1 align="center">TopGG-Scraper</h1>
 <p align="center">
 <img src="./logo.png">
